@@ -10,6 +10,7 @@ module.exports = {
       'boxes': '#1E293B',
       'logobg': '#666666',
       'logofont': '#FFFFFF',
+      'button': '#38BDF8'
     }
     
   },
