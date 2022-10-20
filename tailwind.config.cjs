@@ -11,8 +11,7 @@ module.exports = {
       'logobg': '#666666',
       'logofont': '#FFFFFF',
       'button': '#38BDF8'
-    }
-    
+    },
   },
   plugins: [],
 }
